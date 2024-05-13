@@ -15,22 +15,22 @@ Our project focuses on leveraging deep learning techniques for detecting and cla
 
 ![image](https://github.com/Akshil399/Brain-MRI-Detection/assets/154296041/9eda5139-238c-4883-9e67-f5be6c3683a6)
 
-##Dataset
+## Dataset
 Here is the link for the dataset used for this model : (https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
-##Machine Learning Code
+## Machine Learning Code
 Contains the EfficentNet code for the model
 
-##FastAPI code
+## FastAPI code
 Contains Fast API code for the model
 
-##Code-Base
+## Code-Base
 Contains the entire codebase
 Run your model and save it in the "saved_model / 2" in .keras format
 Modify the name of the path In case you might have changed it in the main.py file(fast API code) in API folder
 Frontend contains frontend of the model
 
-##Screen shots
+## Screen shots
 ![image](https://github.com/Akshil399/Brain-MRI-Detection/assets/154296041/4c0f5af4-5e32-4f88-9e87-a6a45bfca151)
 ![image](https://github.com/Akshil399/Brain-MRI-Detection/assets/154296041/879a0bba-18a0-41b1-ad70-6cb8f41bed76)
 

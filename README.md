@@ -30,6 +30,10 @@ Contains Fast API code for the model
 3. Modify the name of the path In case you might have changed it in the main.py file(fast API code) in the API folder.
 4. Frontend contains the frontend of the model.
 
+## Youtube Video
+https://youtube.com/watch?v=vn2Ripd2pnw
+
+
 ## Screenshots
 ![image](https://github.com/Akshil399/Brain-MRI-Detection/assets/154296041/4c0f5af4-5e32-4f88-9e87-a6a45bfca151)
 ![image](https://github.com/Akshil399/Brain-MRI-Detection/assets/154296041/879a0bba-18a0-41b1-ad70-6cb8f41bed76)
